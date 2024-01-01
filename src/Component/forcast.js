@@ -1,6 +1,5 @@
 import React, { useState, useEffect, Component } from "react";
 import axios from "axios";
-
 import ReactAnimatedWeather from "react-animated-weather";
 import apiKeys from "../API/apiKeys";
 
