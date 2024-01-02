@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import CurrentLocation from "./Component/currentLocation";
+import CurrentLocation from "./components/currentLocation";
 import "./App.css";
 
 function App() {
